@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dynamic-form/static/css/main.7aced40d.chunk.css",
+    "main.js": "/dynamic-form/static/js/main.b01b0b64.chunk.js",
+    "main.js.map": "/dynamic-form/static/js/main.b01b0b64.chunk.js.map",
+    "runtime~main.js": "/dynamic-form/static/js/runtime~main.2ba414b6.js",
+    "runtime~main.js.map": "/dynamic-form/static/js/runtime~main.2ba414b6.js.map",
+    "static/js/2.26e8737c.chunk.js": "/dynamic-form/static/js/2.26e8737c.chunk.js",
+    "static/js/2.26e8737c.chunk.js.map": "/dynamic-form/static/js/2.26e8737c.chunk.js.map",
+    "index.html": "/dynamic-form/index.html",
+    "precache-manifest.95269b4400476e9610402a1fbe0c168c.js": "/dynamic-form/precache-manifest.95269b4400476e9610402a1fbe0c168c.js",
+    "service-worker.js": "/dynamic-form/service-worker.js",
+    "static/css/main.7aced40d.chunk.css.map": "/dynamic-form/static/css/main.7aced40d.chunk.css.map"
+  }
+}
