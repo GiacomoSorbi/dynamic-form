@@ -1,0 +1,16 @@
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-item {
+  opacity: 0;
+  max-height: 0;
+  transition: opacity 0.3s linear, max-height 0.3s linear;
+}
+
+.form-item.active {
+  opacity: 1;
+  max-height: 200%;
+  transition: opacity 0.3s linear, max-height 0.3s linear;
+}
